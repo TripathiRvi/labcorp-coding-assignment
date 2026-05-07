@@ -6,7 +6,7 @@ Production-ready Spring Boot application for managing employee vacation and usag
 
 ## Tech Stack
 
-- Java 21
+- Java 17
 - Spring Boot 3.x
 - Maven
 - Spring Web
@@ -20,7 +20,7 @@ Production-ready Spring Boot application for managing employee vacation and usag
 
 ## Modern Java Features Used
 
-- Java 21 sealed classes
+- Java 17 sealed classes
 - Records for immutable DTOs
 - Stream API
 - Enhanced exception handling
